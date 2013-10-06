@@ -1,0 +1,87 @@
+<!DOCTYPE html >
+<head>
+	<title>Descubre los nuevos avences tecnológicos || Todo lo que necesitas saber</title>
+
+	<style type="text/css">
+	
+	body{
+		background-color:#999;
+	}
+	
+	#num1{
+		width :75%;
+		margin-left: 11.5%;
+		padding:-6em;
+		background-color:#FFF;
+	}
+	
+	#menu{
+		width :80%;
+		margin-left:-2%;
+		padding:-6em;
+	}
+	
+	#menu li{
+		background-color:#FFF;
+		display:inline;
+	}
+	
+	#menu li a{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:16px;
+		text-decoration:none;
+		float:left;
+		padding:24px;
+		margin-left:0.3%;
+		background:#0CF;
+		color:#FFF;
+	}
+	
+	#menu li a:hover{
+		background:#F60;
+		color:#FFF;
+		margin-top:-5px;
+		margin-left:5px;
+		margin-right:5px;
+	}
+	
+	#num2{
+		padding:125px;
+	}
+	
+	</style>
+</head>
+
+<body>
+
+	<div id="num1" name="num1">
+    	<a href="Novedades.html"><img src="21319.jpg" width="140" height="100"> </a> 
+    </div>
+	
+    <div align="center">
+    	<ul id="menu">
+        	<li><a href="#">Novedades</a></li>
+            <li><a href="Tecno-Noticias.html">Tecno-Noticias</a></li>
+            <li><a href="#">Quienes Somos?</a></li>
+            <li><a href="#">Suscripciones</a></li>
+            <li><a href="#">Publicidades</a></li>
+        </ul>
+    </div>
+        
+    <div id="num2" name="num2">    
+        <h2>Visualizadores para paseos virtuales</h2>
+    	<p align=justify>
+        <br>
+        Los dispositivos que se colocan en la cabeza y que muestran imagenes tridimensionales segun 		la direccion en la que mira el usuario, permitiendole perderse en mundos generados por 			 		ordenador, ya estan disponibles comercialmente. Sin embargo, todavia no ha sido posible 		 		caminar por estas realidades virtuales, sin llegar en algun momento a encontrarse con las 	 		paredes reales de la habitación. Ahora, un equipo de investigadores de la Universidad  		 		Tecnologica de Viena ha construido un "Virtualizador", que permite un paseo casi natural a 	 		traves de espacios virtuales. El usuario se ata con un cinturon a un marco de apoyo y los  	 		pies se deslizan por una superficie de baja friccion. Unos sensores recogen estos          		  		movimientos e introducen los datos en el ordenador. El equipo espera que el Virtualizador 	 		llegue al mercado en el 2014.
+    <br>
+    <br>
+		En la digitalizacion del movimiento humano se han planteado varias ideas. Se pueden unir al 		cuerpo unos marcadores, que luego se rastrean con camaras; asi es como se logra capturar el 		movimiento para las peliculas de animacion. Sin embargo, para esto se necesita un equipo 	 		caro y el usuario se encuentra confinado en un espacio relativamente pequeño. Los 	 		 		prototipos que utilizan cintas transportadoras todavia no han dado resultados        	    	satisfactorios. Tuncay Cakmak, estudiante de la Universidad Tecnica de Viena, tuvo una idea 		mucho mejor; cuando los pies se deslizan por una superficie de baja friccion suave, es        posible realizar un movimiento de caminata casi natural sin cambiar de posicion. Junto con  		otros estudiantes y el experto de realidad virtual Hannes Kaufmann (de la Universidad       	Tecnologica de Viena), desarrollo el "Virtualizador".<br>
+        <p align="center"><img src="realidad-virtual.jpg"></p>
+        </p>
+     
+     
+    </div>
+        
+    
+</body>
+</html>
